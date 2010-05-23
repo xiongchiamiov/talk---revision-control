@@ -1,3 +1,16 @@
+!SLIDE
+
+# You did **What**? #
+
+!SLIDE
+
+## git-wiki ##
+### http://atonie.org/2008/02/git-wiki ###
+
+!SLIDE
+
+## ticgit ##
+
 !SLIDE commandline
 
 	$>ti   
@@ -26,4 +39,9 @@
 
 !SLIDE
 
-# http://wiki.github.com/schacon/ticgit/ #
+## http://wiki.github.com/schacon/ticgit/ ##
+
+!SLIDE
+
+## gitfs ##
+### http://www.sfgoth.com/~mitch/linux/gitfs/ ###

@@ -1,6 +1,9 @@
 [
 	{"section": "intro"},
-	{"section": "why"},
-	{"section": "how"},
-	{"section": "git"}
+	{"section": "centralized"},
+	{"section": "distributed"},
+	{"section": "git"},
+	{"section": "reservations"},
+	{"section": "questions"},
+	{"section": "you-did-what"}
 ]

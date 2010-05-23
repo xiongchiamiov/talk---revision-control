@@ -2,16 +2,14 @@
 
 # Revision Control #
 ## James Pearson ##
+### (xiong_chiamiov) ###
+### http://changedmy.name/ ###
 
-!SLIDE
+!SLIDE bullets
 
-# CPLUG #
-## Cal Poly Linux Users Group ##
-### http://cplug.org ###
-### \#cplug @ freenode ###
-
-!SLIDE
-
-# James Pearson #
-## xiong_chiamiov ##
-### http://github.com/xiongchiamiov ###
+* A brief overview of centralized version control
+* Distributed VCS
+* Git - what is it?
+* A few reservations
+* Questions
+* You did **what** with Git?

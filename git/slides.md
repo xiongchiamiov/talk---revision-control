@@ -1,57 +1,33 @@
 !SLIDE
 
-# Distributed Version Control System #
-## (DVCS) ##
+# Git #
 
 !SLIDE bullets incremental
 
-* Mercurial (hg)
-* Bazaar (bzr)
-* Darcs
-* Monotone
+* Fast
+* Handles large repositories well
+* Designed with multiple users in mind
+* Powerful and flexible
+* Arcane syntax
 
-!SLIDE bullets
+!SLIDE
 
-* <strike>Mercurial (hg)</strike>
-* <strike>Bazaar (bzr)</strike>
-* <strike>Darcs</strike>
-* <strike>Monotone</strike>
+## Change Control, not Version Control ##
 
-!SLIDE bullets
+!SLIDE
 
-* <strike>Mercurial (hg)</strike>
-* <strike>Bazaar (bzr)</strike>
-* <strike>Darcs</strike>
-* <strike>Monotone</strike>
-* ![git](git.png) ![github](github.png)
+## Staging Index ##
 
-!SLIDE center
+!SLIDE incremental bullets
 
-![git00](git00.png)
+* hack hack hack
+* add files to index
+* commit changes
 
-!SLIDE center
+!SLIDE
 
-![git01](git01.png)
-
-!SLIDE center
-
-![git02](git02.png)
-
-!SLIDE center
-
-![git03](git03.png)
-
-!SLIDE center
-
-![git04](git04.png)
-
-!SLIDE center
-
-![git05](git05.png)
-
-!SLIDE center
-
-![git07](git07.png)
+## http://tomayko.com/writings/the-thing-about-git ##
+## http://plasmasturm.org/log/gitidxpraise/ ##
 
 !SLIDE commandline
 
@@ -75,4 +51,31 @@
 
 !SLIDE
 
-# http://tomayko.com/writings/the-thing-about-git #
+## Stash ##
+
+!SLIDE commandline
+
+	git stash --keep-index
+	[run tests]
+	git commit
+	git stash pop
+
+!SLIDE
+
+## Cheap Branches ##
+
+!SLIDE
+
+## git-svn ##
+
+!SLIDE
+
+## Rebasing ##
+
+!SLIDE
+
+## http://schacon.github.com/history.html ##
+
+!SLIDE
+
+## Easy Self-Hosting ##
